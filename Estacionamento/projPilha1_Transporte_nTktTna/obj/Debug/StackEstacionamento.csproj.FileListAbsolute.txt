@@ -1,0 +1,7 @@
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\bin\Debug\projPilha1_Transporte_nTktTna.exe.config
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\bin\Debug\projPilha1_Transporte_nTktTna.exe
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\bin\Debug\projPilha1_Transporte_nTktTna.pdb
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\obj\Debug\StackEstacionamento.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\obj\Debug\StackEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\obj\Debug\projPilha1_Transporte_nTktTna.exe
+C:\Users\Lucas\Desktop\exeED2\StackEstacionamento\Estacionamento\projPilha1_Transporte_nTktTna\obj\Debug\projPilha1_Transporte_nTktTna.pdb
